@@ -1,0 +1,18 @@
+Host 10.249.46.95
+  HostName 10.249.46.95
+  User plum
+  PreferredAuthentications publickey
+  IdentityFile "C:/Users/wzhao/Documents/id_rsa"
+
+
+Host 10.103.22.26
+  HostName 10.103.22.26
+  User zhzz
+
+Host 13.76.219.236
+  HostName 13.76.219.236
+  User wsy
+
+Host 10.119.130.244
+  HostName 10.119.130.244
+  User xdzhang
